@@ -1,1 +1,1 @@
-# CSE299_Bookstore
+# Bookstore
